@@ -1,0 +1,25 @@
+--Zadanie 1
+SELECT *
+FROM gracze;
+
+
+
+--Zadanie 2
+SELECT
+*
+FROM gry;
+
+
+
+--Zadanie 3
+SELECT
+id_gry,id_gracza,stan,ocena
+FROM oceny;
+
+
+
+
+
+--Zadanie 4
+SELECT nazwisko,imie, wiek
+ FROM gracze;
